@@ -7,12 +7,11 @@ The project covers the full GRC lifecycle, from business scope analysis to risk 
 ---
 
 ## 👥 Team Members
-- Member 1  
-- Member 2  
-- Member 3  
-- Member 4  
+- Mohamed Arafa Abogad  
+- Aly Essam
+- Mostafa Else7amy 
+- Amr Hussein
 
-*(Update with actual names and roles)*
 
 ---
 
